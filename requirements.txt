@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+pydantic==2.9.0
+PyPDF2==3.0.1
+python-docx==1.1.2
+sentence-transformers==3.1.0
+numpy
+requests==2.32.0
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
